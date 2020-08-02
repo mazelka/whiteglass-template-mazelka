@@ -1,9 +1,5 @@
 # whiteglass-template
 
-![Jekyll Deploy](https://github.com/yous/whiteglass-template/workflows/Jekyll%20Deploy/badge.svg)
-
-Template site for [whiteglass](https://github.com/yous/whiteglass) theme.
-
 ## Configuration
 
 You need to add a secret named `JEKYLL_PAT` to make GitHub Actions work.
